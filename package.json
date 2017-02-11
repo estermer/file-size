@@ -1,0 +1,21 @@
+{
+  "name": "file-size",
+  "version": "1.0.0",
+  "description": "Objective: Build a full stack JavaScript app that is functionally similar to this: https://aryanj-file-size.herokuapp.com/ and deploy it to Heroku.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estermer/file-size.git"
+  },
+  "author": "Eric Stermer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estermer/file-size/issues"
+  },
+  "engines": {
+    "node": "6.9.4"
+  }
+}
